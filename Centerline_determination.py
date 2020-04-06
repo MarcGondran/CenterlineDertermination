@@ -1,6 +1,6 @@
 
 
-class centerlinedetermination:
+class CenterLineDetermination:
     def __init__(self, mandrel_name=None):
 
         import trimesh
